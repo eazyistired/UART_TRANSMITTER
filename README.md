@@ -1,2 +1,2 @@
 # UART_TRANSMITTER
-blank
+My INFINEON Summer School Project
