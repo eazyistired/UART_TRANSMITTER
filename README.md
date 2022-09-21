@@ -14,7 +14,6 @@ Technologies:
 
 Tools:
 - X2GO
-- gedit
 - Cadence XCelium
 
 ---
